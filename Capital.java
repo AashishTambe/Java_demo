@@ -37,6 +37,8 @@ public static void main(String[] args) {
 	break;
 	case "Italy":
 		System.out.println("Rome");
+	default:
+		System.out.println("Invalid Choice");
 	break;
 	}
 	
