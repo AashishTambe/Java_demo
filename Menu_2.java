@@ -55,6 +55,7 @@ public class menu_program_2 {
 	                break;
 	            default:
 	                System.out.println("Invalid choice");
+				break;
 	     
 	    }
 	}
